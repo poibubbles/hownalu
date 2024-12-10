@@ -1,0 +1,12 @@
+* activity - Generic recipe. Timeless.
+- component - Instances of resources in use organized by type. Timeless.
+- history - Interesting enough events. Dated.
+- issue - Interesting enough problems. If solved, integrated into an activity. Dated.
+- jargon - Terms, ideas, predicates. Maybe needing citations. Timeless.
+- platform - Reference for various platform-specific components.
+- project - What we’re working on. Dated.
+- question - Lingering wonderments. Timeless.
+- resource - What we use to get things done. Timeless.
+- role - Coagulation of process responsibilities. Abstract job description. Timeless.
+- tag - Description of Obsidian tag. Timeless.
+- todo - Whatever doesn’t fit above.

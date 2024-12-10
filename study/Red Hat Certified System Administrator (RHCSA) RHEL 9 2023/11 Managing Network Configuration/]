@@ -1,0 +1,13 @@
+In NetworkManager, devices are network interfaces.
+
+Connections are collections of configuration settings for a device, stored in
+the configuration file in  `/etc/NetworkManager/system-connections`.
+
+`/etc/sysconfig/network-scripts` is supported but deprecated.
+
+Only one connection can be active for a device.
+
+Permissions to modify settings are applied through [[dbus]].
+
+[[nmcli]]
+[[nmtui]]

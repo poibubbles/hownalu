@@ -1,0 +1,1 @@
+Originally "init ram drive." Now it's "init file system." See [[initramfs]].

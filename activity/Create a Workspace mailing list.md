@@ -1,0 +1,1 @@
+As a Google Workspace admin, create a new group at https://admin.google.com/ac/groups.

@@ -1,0 +1,1 @@
+Aonalu's [shared `hka` folder](https://drive.google.com/drive/folders/1m8ZIENu5s0JIbDUvEYwZEchaLkXGePv0), including Michele's `Accounting Workflow.xlsx` spreadsheet reformatted as `tasks` Google sheet.

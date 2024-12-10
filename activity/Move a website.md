@@ -1,0 +1,1 @@
+Start here: https://developers.google.com/search/docs/crawling-indexing/site-move-with-url-changes

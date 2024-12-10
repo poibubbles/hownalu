@@ -1,0 +1,1 @@
+Display all mounts and their devices and locations.

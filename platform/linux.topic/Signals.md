@@ -1,0 +1,1 @@
+SIGINFO may be triggered by Ctrl-T and display information about the running process.

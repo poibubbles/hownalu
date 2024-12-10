@@ -1,0 +1,3 @@
+:
+
+	sudo lsfw -class network

@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "fc254e5a90529dd7",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d8cd368a01855b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "654bd05bf4e9d893",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "issue/2023-11-08 Unifying EdgeDB schema, project folders, vaults.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2023-11-08 Unifying EdgeDB schema, project folders, vaults"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "929cd22ed141d2f1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "09a1c8137f2ddcbf",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "9b4612d19f93f945",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#dns",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "0cc49eddef925ca0",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "245ba17149027485",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "1329ae09aca2b0fe",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "74f9a535ee5b8c79",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "issue/2023-11-08 Unifying EdgeDB schema, project folders, vaults.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "2895f828898d57e6",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "issue/2023-11-08 Unifying EdgeDB schema, project folders, vaults.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "082e448170957504",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "issue/2023-11-08 Unifying EdgeDB schema, project folders, vaults.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "654bd05bf4e9d893",
+  "lastOpenFiles": [
+    "study/Linux Under the Hood, 2nd Ed 2024/02 The Linux Boot Procedure/1.02.03 Managing UEFI Booting.md",
+    "standard/Project-based management.md",
+    "standard/Johnny.Decimal areas and categories.md",
+    "project/template/Components.md",
+    "jargon/project.md",
+    "project/2023-11-01 Uncommon core/Constraints.md",
+    "Untitled.md",
+    "jargon/IBIS.md",
+    "resource/Google Tasks.md",
+    "issue/2023-11-08 Unifying EdgeDB schema, project folders, vaults.md",
+    "issue/2023-11-06 When to use databases, folders, repositories,  oh my!.md",
+    "project/template/Purpose.md",
+    "project/template/Resources.md",
+    "issue/2023-10-26 MacOS kernel_task high CPU.md",
+    "Databases, Folders, Repositories, Vaults.md",
+    "project/2023-09-17 HKA process improvement/component/Becca's original process document.md",
+    "project/2023-09-17 HKA process improvement/component/Aonalu's shared HKA folder.md",
+    "resource/ModelThinkers.md",
+    "project/2023-09-17 HKA process improvement/component/HKA's shared ISU folder.md",
+    "project/template/Constraints.md",
+    "project/template/Terminology.md",
+    "A2 Me&Youphoria 1.dff",
+    "A2 Me&Youphoria.dff",
+    "tag/gwork.md",
+    "activity/Convert MP3 to M4A.md",
+    "resource/Flet.md",
+    "todo/Business.md",
+    "issue/2023-09-25 Flet and Frappe Jinja conflicts.md",
+    "component/account",
+    "component/Untitled",
+    "component/folder",
+    "component/repository",
+    "component/mailing list",
+    "component",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "history",
+    "project"
+  ]
+}

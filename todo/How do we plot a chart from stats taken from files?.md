@@ -1,0 +1,1 @@
+For example, if we were to `watch` and `grep` for changes in a file (like something in `/proc/`), how would we capture the time-based values and then turn them into a nice chart? Or even a text-only chart?
