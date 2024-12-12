@@ -1,10 +1,10 @@
-BIOS boots use:
+BIOS boots run:
 ```
 linux
 initrd
 ```
 
-UEFI boots use:
+UEFI boots run:
 ```
 linuxefi
 initrdefi
@@ -49,7 +49,7 @@ Turn hiding on:
 sudo grub2-editenv - set menu_auto_hide=1
 ```
 
-Boot entry on new F41 installl:
+Default boot entry after a new F41 installl:
 ```
 load_video
 set gfxpayload=keep

@@ -34,6 +34,14 @@ Test authentication (expect a friendly response rather than an actual login):
 ```
 ssh -T git@github.com
 ```
+Git repo identification...
+```
+git config --global --edit
+```
+If necessary, maybe commit git to stowage
+```
+git commit --amend --reset-author
+```
 Try cloning a repository using the key:
 ```
 git clone git@github.com:<account>/<repository>.git
@@ -50,26 +58,13 @@ If you're working with an older repository, a different method may be used, like
 [remote "origin"]
   url = https://github.com/<account>/<repository>.git
 ```
-
-Git repo identification...
-git config --global --edit
-fix, maybe commit git to stowage
-git commit --amend --reset-author
-
-
-
 Also: changing the SSH passphrase:
 ```
 ssh-keygen -p -f ~/.ssh/<keyname>
 ```
-
 
 * [Github: About SSH (overview)](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/about-ssh)
 * [Github: Generate a new SSH key and adding it to the ssh-agent](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 * [Github: Adding a new SSH key to your GitHub account](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
 * [Github: Working with SSH key passphrases](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/working-with-ssh-key-passphrases)
 * [Atlassian: Git+SSH](https://www.atlassian.com/git/tutorials/git-ssh)
-
-
-
-See https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent.

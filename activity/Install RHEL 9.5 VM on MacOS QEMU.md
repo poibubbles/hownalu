@@ -1,4 +1,19 @@
-*YO* Append `console=ttyS0` to the kernel boot options.
+
+## Quickly..
+It seems as though appending the boot options makes a difference depending on
+whether the terminal app is in fullscreen or not.
+
+* `3` alone works better for windowed terminal
+* `console=ttyS0 text 3` works better for a fullscreen terminal
+
+Modify the boot options at the GRUB prompt or edit `/etc/default/grub` and run
+`grub2-mkconfig -o /boot/grub2/grub.cfg --update-bls-cmdline`.
+`--update-bls-cmdline` may be RHEL or RHEL9 specific.
+
+`export SYSTEMD_PAGER=` to disable automatic `systemctl` paging.
+
+
+## Background
 
 Inspired by [Virtual Machines on MacOS With QEMU — Intel based](https://medium.com/code-uncomplicated/virtual-machines-on-macos-with-qemu-intel-based-351b28758617) (and the accompanying [Github repository](https://github.com/oliversavio/youtube-vid-code/tree/main/qemu-virtual-machines-macos)) by Oliver Mascarenhas.
 

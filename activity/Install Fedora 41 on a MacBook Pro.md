@@ -4,9 +4,18 @@ Download Fedora Media Writer here: https://fedoraproject.org/workstation/downloa
 
 Opening the Media Writer will probably will probably throw a security warning. If so, go to `System Settings > Privacy and Security` and "Open [it] Anyway".
 
-dnf install vim-enhanced tmux stow
+dnf install vim-enhanced tmux stow lm_sensors xsensors seahorse
 bitwarden
 ssh keys
 github
 dotfiles
 obsidian
+
+Battery stuff:
+```
+upower
+acpi -b
+acpi -V
+inxi --battery
+inxi -Fxz
+```
