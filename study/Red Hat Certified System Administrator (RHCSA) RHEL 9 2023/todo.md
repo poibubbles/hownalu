@@ -1,9 +1,18 @@
+## Nice for lessons
+
+Reverse SSH shell for root access via workstation gives the nicest console
+screen with colors, wraps, and whatnot. Also, tmux copy/paste history works
+without the extra hop.
+
 ## In general
-Group:
+Organize into topics:
 * commands, files, environment variables
 * arguments and options for common tasks
 * man/info/docs supporting the above
 
+In RHEL:
+* `dnf install bash-completion` and restart/relogin/resource environment
+* `export EDITOR=/usr/bin/vim`
 
 ## Booting
 How to identify whether we have a BIOS or UEFI system? Know how to install
