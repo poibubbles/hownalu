@@ -12,6 +12,8 @@ Emmet vim
 
 Obsidian-database-plugin as better Dataview for Obsidian
 
+Rclone https://rclone.org/ rsync for cloud storage (no iCloud as of 2024-12-28)
+
 Basetable as better Airtable
 
 lepiter.io python and javascript

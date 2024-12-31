@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "activity/Install RHEL 9.5 VM on MacOS QEMU.md",
+                "file": "study/Red Hat Certified System Administrator (RHCSA) RHEL 9 2023/11 Managing Network Configuration/3.11.02 Exploring IPv6 Networking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Install RHEL 9.5 VM on MacOS QEMU"
+              "title": "3.11.02 Exploring IPv6 Networking"
             }
           },
           {
@@ -55,16 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "activity/Authenticate at Github via SSH key.md",
+                "file": "study/Outlier AI/Cheatsheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Authenticate at Github via SSH key"
+              "title": "Cheatsheet"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -205,43 +205,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f9dbfa35443a01a",
+  "active": "80248c43d584ce2d",
   "lastOpenFiles": [
-    "activity/Manage RHEL9 startup.md",
-    "study/Red Hat Certified System Administrator (RHCSA) RHEL 9 2023/todo.md~",
-    "issue/2024-12-03 tsc hpet acpi_pm clocksource issues on RedHat 9.5.md~",
-    "activity/Install RHEL 9.5 VM on MacOS QEMU.md~",
-    "study/Red Hat Certified System Administrator (RHCSA) RHEL 9 2023/12 Managing Software/4.12.07 Using subscription-manager.md~",
-    "study/Red Hat Certified System Administrator (RHCSA) RHEL 9 2023/12 Managing Software/4.12.06 Managing dnf Updates and History.md~",
-    "study/Red Hat Certified System Administrator (RHCSA) RHEL 9 2023/12 Managing Software/4.12.05 Exploring Modules and Application Streams.md~",
-    "study/Red Hat Certified System Administrator (RHCSA) RHEL 9 2023/12 Managing Software/4.12.04 Using dnf Groups.md~",
-    "study/Red Hat Certified System Administrator (RHCSA) RHEL 9 2023/12 Managing Software/4.12.02 Setting up Repository Access.md~",
-    "study/Red Hat Certified System Administrator (RHCSA) RHEL 9 2023/12 Managing Software/4.12.03 Managing Packages with dnf.md~",
-    "study/Red Hat Certified System Administrator (RHCSA) RHEL 9 2023/12 Managing Software/4.12.01 Understanding RPM Packages.md~",
-    "issue/2024-12-08 Remember flow control.md",
-    "issue/2024-12-08 remember flow control.md",
-    "issue/2024-12-08 tmux hangs in secondary session.md",
-    "study/Red Hat Certified System Administrator (RHCSA) RHEL 9 2023/todo.md",
-    "issue/2024-12-04 Trouble with RHEL9 kickstart and text install.md",
-    "activity/Install RHEL 9.5 VM on MacOS QEMU.md",
+    "study/Outlier AI/Onboarding module 3 of 6 - Tasking Deep Dive - Prompt Writing.md",
+    "study/Outlier AI/Onboarding module 4 of 6 - Tasking Deep Dive - Rating and Ranking.md",
+    "study/Outlier AI/Onboarding - security.md",
+    "study/Outlier AI/Onboarding module 2 of 6 - Working on Outlier.md",
+    "study/Outlier AI/Onboarding module 5 of 6 - Tasking Deep Dive - Rewriting.md",
+    "study/Outlier AI/Cheatsheet.md",
     "resource/QEMU.md",
+    "study/Red Hat Certified System Administrator (RHCSA) RHEL 9 2023/11 Managing Network Configuration/3.11.02 Exploring IPv6 Networking.md",
+    "resource/Outlier AI.md",
+    "study/Outlier AI",
+    "todo/Tools to evaluate.md",
+    "resource/Whoosh.md",
+    "platform/linux.bin/man.md",
+    "study/Red Hat Certified System Administrator (RHCSA) RHEL 9 2023/17 Configuring Logging/4.17.01 Exploring RHEL Logging Options.md~",
+    "study/Red Hat Certified System Administrator (RHCSA) RHEL 9 2023/16 Task Scheduling/4.16.03 Scheduling Tasks with cron.md~",
+    "study/Red Hat Certified System Administrator (RHCSA) RHEL 9 2023/16 Task Scheduling/4.16.03 Scheduling Tasks with cron.md",
+    "study/Red Hat Certified System Administrator (RHCSA) RHEL 9 2023/16 Task Scheduling/4.16.05 Using at.md~",
+    "study/Red Hat Certified System Administrator (RHCSA) RHEL 9 2023/10 Securing Files with Permissions/3.10.06 Applying Default Permissions.md~",
+    "study/Red Hat Certified System Administrator (RHCSA) RHEL 9 2023/10 Securing Files with Permissions/3.10.05 Configuring Shared Group Directories.md~",
+    "study/Red Hat Certified System Administrator (RHCSA) RHEL 9 2023/16 Task Scheduling/4.16.06 Managing Temporary Files.md~",
+    "study/Red Hat Certified System Administrator (RHCSA) RHEL 9 2023/04 Exploring Essential Tools/2.04.01 Using man.md",
+    "study/Red Hat Certified System Administrator (RHCSA) RHEL 9 2023/12 Managing Software/4.12.03 Managing Packages with dnf.md",
+    "platform/linux.topic/Packages.md",
+    "platform/linux.bin/dnf.md~",
     "activity/Authenticate at Github via SSH key.md",
-    "resource/RPM.md",
-    "resource/Git.md",
-    "activity/Install Fedora 41 on a MacBook Pro.md",
-    "activity/Recover a Fedora installation via GRUB.md",
-    "platform/ln.md",
-    "platform/chvt.md",
-    "platform/findmnt.md",
-    "platform/linux.bin/od.md",
-    "study/Red Hat Certified System Administrator (RHCSA) RHEL 9 2023/06 Using Essential File Management Tools/3.06.05 Using Links.md",
-    "study/Red Hat Certified System Administrator (RHCSA) RHEL 9 2023/06 Using Essential File Management Tools/3.06.04 Mounting Filesystems.md",
-    "lsblk.md",
-    "platform/find.md",
-    "study/Red Hat Certified System Administrator (RHCSA) RHEL 9 2023/06 Using Essential File Management Tools/3.06.03 Finding Files.md",
-    "study/Red Hat Certified System Administrator (RHCSA) RHEL 9 2023/07 Managing Text Files/3.07.02 Using grep.md",
-    "study/Red Hat Certified System Administrator (RHCSA) RHEL 9 2023/07 Managing Text Files/3.07.01 Exploring Common Text Tools.md",
-    "man.md",
-    "study/Red Hat Certified System Administrator (RHCSA) RHEL 9 2023/04 Exploring Essential Tools/2.04.01 Using man.md"
+    "platform/linux.bin/rpm.md",
+    "activity/Install RHEL 9.5 VM on MacOS QEMU.md~",
+    "study/Red Hat Certified System Administrator (RHCSA) RHEL 9 2023/11 Managing Network Configuration/3.11.01 Understanding IPv4 Networking.md",
+    "study/Red Hat Certified System Administrator (RHCSA) RHEL 9 2023/05 Understanding The Bash Shell/2.05.08 Tuning the Bash Environment.md",
+    "study/Red Hat Certified System Administrator (RHCSA) RHEL 9 2023/05 Understanding The Bash Shell/2.05.07 Using alias.md",
+    "study/Red Hat Certified System Administrator (RHCSA) RHEL 9 2023/05 Understanding The Bash Shell/2.05.06 Applying Variables.md",
+    "study/Red Hat Certified System Administrator (RHCSA) RHEL 9 2023/05 Understanding The Bash Shell/2.05.05 Escaping Special Characters.md",
+    "study/Red Hat Certified System Administrator (RHCSA) RHEL 9 2023/05 Understanding The Bash Shell/2.05.04 Introducing Shell Expansion.md",
+    "resource/Bash.md",
+    "study/Red Hat Certified System Administrator (RHCSA) RHEL 9 2023/05 Understanding The Bash Shell/2.05.03 Using Keyboard Shortcuts.md",
+    "study/Red Hat Certified System Administrator (RHCSA) RHEL 9 2023/todo.md~"
   ]
 }

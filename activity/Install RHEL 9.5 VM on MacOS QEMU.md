@@ -10,7 +10,8 @@ Modify the boot options at the GRUB prompt or edit `/etc/default/grub` and run
 `grub2-mkconfig -o /boot/grub2/grub.cfg --update-bls-cmdline`.
 `--update-bls-cmdline` may be RHEL or RHEL9 specific.
 
-`export SYSTEMD_PAGER=` to disable automatic `systemctl` paging.
+In `.bashrc`, `export SYSTEMD_PAGER=` to disable automatic `systemctl` paging.
+And maybe `alias systemctl="systemctl --no-pager --full"`.
 
 
 ## Background
