@@ -1,3 +1,9 @@
+https://www.pythonmorsels.com/terms
+https://www.pythonmorsels.com/every-dunder-method/
+https://realpython.com/python-all-attribute/
+https://realpython.com/python-with-statement/
+https://docs.python.org/3/library/asyncio-task.html
+
 ```
 sys.intern
 ```
